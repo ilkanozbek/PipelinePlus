@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+  <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>MediatR.PipelinePlus.Redis</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Ilkan Ozbek</Authors>
+    <Description>Redis-backed cache provider for MediatR.PipelinePlus.</Description>
+    <PackageTags>mediatR;redis;caching;idempotency</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ilkanozbek/mediatR.pipelineplus</RepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MediatR.PipelinePlus\MediatR.PipelinePlus.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.7.33" />
+  </ItemGroup>
+</Project>

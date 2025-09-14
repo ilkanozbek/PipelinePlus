@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MediatR.PipelinePlus</id>
+    <version>0.1.0</version>
+    <authors>Ilkan Ozbek</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Plug-and-play MediatR pipeline behaviors: validation, caching, idempotency, performance log, outbox, exception mapping.</description>
+    <tags>mediatR pipeline validation caching idempotency clean-architecture</tags>
+    <repository type="git" url="https://github.com/ilkanozbek/mediatR.pipelineplus" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="FluentValidation" version="11.9.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="12.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net9.0">
+        <dependency id="FluentValidation" version="11.9.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="12.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\bin\Release\net8.0\MediatR.PipelinePlus.dll" target="lib\net8.0\MediatR.PipelinePlus.dll" />
+    <file src="C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\bin\Release\net9.0\MediatR.PipelinePlus.dll" target="lib\net9.0\MediatR.PipelinePlus.dll" />
+  </files>
+</package>

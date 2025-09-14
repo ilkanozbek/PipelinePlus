@@ -1,0 +1,14 @@
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\bin\Release\net8.0\MediatR.PipelinePlus.deps.json
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\bin\Release\net8.0\MediatR.PipelinePlus.dll
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\bin\Release\net8.0\MediatR.PipelinePlus.pdb
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.csproj.AssemblyReference.cache
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.AssemblyInfoInputs.cache
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.AssemblyInfo.cs
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.csproj.CoreCompileInputs.cache
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.dll
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\refint\MediatR.PipelinePlus.dll
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.pdb
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\ref\MediatR.PipelinePlus.dll
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\bin\Release\net8.0\MediatR.PipelinePlus.xml
+C:\Projects\MediatR.PipelinePlus\src\MediatR.PipelinePlus\obj\Release\net8.0\MediatR.PipelinePlus.xml

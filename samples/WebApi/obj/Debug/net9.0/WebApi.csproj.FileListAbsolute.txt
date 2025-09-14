@@ -1,0 +1,6 @@
+C:\Projects\MediatR.PipelinePlus\samples\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\Projects\MediatR.PipelinePlus\samples\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MediatR.PipelinePlus\samples\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\Projects\MediatR.PipelinePlus\samples\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\Projects\MediatR.PipelinePlus\samples\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projects\MediatR.PipelinePlus\samples\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
