@@ -337,4 +337,4 @@ dotnet nuget push ./.nupkg/MediatR.PipelinePlus.*.nupkg \
 ## Contributing & License
 
 PRs and issues are welcome!  
-Licensed under **MIT**.
+
